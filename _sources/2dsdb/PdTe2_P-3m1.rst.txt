@@ -6,15 +6,15 @@ PdTe2 - P-3m1
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB2
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    4.009
 Lattice Constant *b* (Å)    4.009
 Space Group                 P-3m1
 Formation Energy (eV/f.u.)  -0.2938
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

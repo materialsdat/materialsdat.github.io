@@ -6,15 +6,15 @@ SiSb - P-6m2
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    3.971
 Lattice Constant *b* (Å)    3.971
 Space Group                 P-6m2
 Formation Energy (eV/f.u.)  0.4716
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

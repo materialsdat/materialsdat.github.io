@@ -6,15 +6,15 @@ AlClO - Pmmn
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           ABC
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.171
 Lattice Constant *b* (Å)    3.661
 Space Group                 Pmmn
 Formation Energy (eV/f.u.)  -6.8764
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

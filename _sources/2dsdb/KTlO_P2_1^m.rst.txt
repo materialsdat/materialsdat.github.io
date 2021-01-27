@@ -6,15 +6,15 @@ KTlO - P2
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           ABC
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    6.249
 Lattice Constant *b* (Å)    3.805
 Space Group                 P2
 Formation Energy (eV/f.u.)  -2.2903
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

@@ -6,15 +6,15 @@ PbS - Aem2
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB
 Crystal System              Square
 Lattice Constant *a* (Å)    5.945
 Lattice Constant *b* (Å)    5.946
 Space Group                 Aem2
 Formation Energy (eV/f.u.)  -0.8428
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

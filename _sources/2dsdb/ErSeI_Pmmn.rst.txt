@@ -6,15 +6,15 @@ ErSeI - Pmmn
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           ABC
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    4.195
 Lattice Constant *b* (Å)    5.613
 Space Group                 Pmmn
 Formation Energy (eV/f.u.)  -4.6354
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

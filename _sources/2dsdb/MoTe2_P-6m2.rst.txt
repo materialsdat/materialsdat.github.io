@@ -6,15 +6,15 @@ MoTe2 - P-6m2
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB2
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    3.549
 Lattice Constant *b* (Å)    3.549
 Space Group                 P-6m2
 Formation Energy (eV/f.u.)  -0.4626
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

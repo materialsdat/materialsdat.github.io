@@ -6,15 +6,15 @@ InBrO - Pmmn
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           ABC
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.680
 Lattice Constant *b* (Å)    4.138
 Space Group                 Pmmn
 Formation Energy (eV/f.u.)  -2.7695
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

@@ -6,15 +6,15 @@ ZrS2 - P-3m1
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB2
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    3.682
 Lattice Constant *b* (Å)    3.682
 Space Group                 P-3m1
 Formation Energy (eV/f.u.)  -4.3850
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

@@ -6,15 +6,15 @@ Rb2Pd3S4 - P6/mmm
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           A2B3C4
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    6.179
 Lattice Constant *b* (Å)    10.701
 Space Group                 P6/mmm
 Formation Energy (eV/f.u.)  -6.2853
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

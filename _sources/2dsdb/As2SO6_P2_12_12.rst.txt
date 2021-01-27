@@ -6,15 +6,15 @@ As2SO6 - P2
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB2C6
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    4.879
 Lattice Constant *b* (Å)    11.186
 Space Group                 P2
 Formation Energy (eV/f.u.)  -10.8900
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

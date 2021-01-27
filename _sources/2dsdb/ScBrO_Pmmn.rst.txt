@@ -6,15 +6,15 @@ ScBrO - Pmmn
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           ABC
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.576
 Lattice Constant *b* (Å)    3.991
 Space Group                 Pmmn
 Formation Energy (eV/f.u.)  -7.8532
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

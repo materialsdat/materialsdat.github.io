@@ -6,15 +6,15 @@ PPdSe - P2/c
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           ABC
 Crystal System              Square
 Lattice Constant *a* (Å)    5.847
 Lattice Constant *b* (Å)    5.903
 Space Group                 P2/c
 Formation Energy (eV/f.u.)  -0.1982
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

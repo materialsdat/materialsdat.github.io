@@ -6,15 +6,15 @@ IrBr3 - C2/m
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB3
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    6.395
 Lattice Constant *b* (Å)    11.075
 Space Group                 C2/m
 Formation Energy (eV/f.u.)  1.3116
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

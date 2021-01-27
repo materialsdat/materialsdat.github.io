@@ -6,15 +6,15 @@ PtI2 - P2
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB2
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    7.034
 Lattice Constant *b* (Å)    8.333
 Space Group                 P2
 Formation Energy (eV/f.u.)  1.0416
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

@@ -6,15 +6,15 @@ Te2Br - Pmn2
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB2
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    4.042
 Lattice Constant *b* (Å)    13.064
 Space Group                 Pmn2
 Formation Energy (eV/f.u.)  -0.2685
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

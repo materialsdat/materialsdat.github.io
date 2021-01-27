@@ -6,15 +6,15 @@ WSe2 - P2
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB2
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.307
 Lattice Constant *b* (Å)    5.944
 Space Group                 P2
 Formation Energy (eV/f.u.)  -0.5302
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

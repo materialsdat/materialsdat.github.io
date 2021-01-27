@@ -6,15 +6,15 @@ C - P6/mmm
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           A
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    2.469
 Lattice Constant *b* (Å)    2.469
 Space Group                 P6/mmm
 Formation Energy (eV/f.u.)  0.0586
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

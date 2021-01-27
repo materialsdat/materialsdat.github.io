@@ -6,15 +6,15 @@ ZrTe5 - Pmmn
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB5
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    4.007
 Lattice Constant *b* (Å)    13.854
 Space Group                 Pmmn
 Formation Energy (eV/f.u.)  -2.1788
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

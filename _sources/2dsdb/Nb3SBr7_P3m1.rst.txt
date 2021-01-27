@@ -6,15 +6,15 @@ Nb3SBr7 - P3m1
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB3C7
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    7.146
 Lattice Constant *b* (Å)    7.146
 Space Group                 P3m1
 Formation Energy (eV/f.u.)  -10.0661
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

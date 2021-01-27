@@ -6,15 +6,15 @@ TaTe4Ir - P2
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           ABC4
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.764
 Lattice Constant *b* (Å)    12.488
 Space Group                 P2
 Formation Energy (eV/f.u.)  -0.0496
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

@@ -6,15 +6,15 @@ RbLiSe - P4/nmm
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           ABC
 Crystal System              Square
 Lattice Constant *a* (Å)    4.537
 Lattice Constant *b* (Å)    4.537
 Space Group                 P4/nmm
 Formation Energy (eV/f.u.)  -3.0454
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

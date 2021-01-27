@@ -6,15 +6,15 @@ YI3 - P-3
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB3
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    7.402
 Lattice Constant *b* (Å)    7.402
 Space Group                 P-3
 Formation Energy (eV/f.u.)  -5.1364
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

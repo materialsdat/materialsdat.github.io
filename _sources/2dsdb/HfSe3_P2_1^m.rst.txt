@@ -6,15 +6,15 @@ HfSe3 - P2
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB3
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    5.351
 Lattice Constant *b* (Å)    3.719
 Space Group                 P2
 Formation Energy (eV/f.u.)  -2.0865
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

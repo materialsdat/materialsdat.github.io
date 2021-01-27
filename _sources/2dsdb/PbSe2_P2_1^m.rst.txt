@@ -6,15 +6,15 @@ PbSe2 - P2
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB2
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.993
 Lattice Constant *b* (Å)    6.931
 Space Group                 P2
 Formation Energy (eV/f.u.)  0.1681
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------

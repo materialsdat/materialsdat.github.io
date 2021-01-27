@@ -6,15 +6,15 @@ SnS2 - P-3m1
 1. Structure Summary
 --------------------------
  
-=========================== ==========
-Date Page Updated           2021-01-27
+=========================== ===============
+Last Updated                2021-01-27
 Crystal Prototype           AB2
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    3.700
 Lattice Constant *b* (Å)    3.700
 Space Group                 P-3m1
 Formation Energy (eV/f.u.)  -1.1494
-=========================== ==========
+=========================== ===============
  
 2. Mechanical Properties (PBE)
 ------------------------------
