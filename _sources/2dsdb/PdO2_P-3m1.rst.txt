@@ -7,7 +7,7 @@ PdO2 - P-3m1
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           AB2
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    3.092
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      45.081
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-PdO2_P-3m1.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   111.104
 Youngs's Modulus *Min*. (N/m)   111.103
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      45.081
 Poisson's Ratio *Max*.          0.232
 Poisson's Ratio *Min*.          0.232
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-PdO2_P-3m1.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

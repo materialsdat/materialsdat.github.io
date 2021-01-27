@@ -7,7 +7,7 @@ PdSeO3 - P2
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           ABC3
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.903
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      10.721
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-PdSeO3_P2_1^m.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   25.402
 Youngs's Modulus *Min*. (N/m)   24.377
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      10.721
 Poisson's Ratio *Max*.          0.149
 Poisson's Ratio *Min*.          0.138
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-PdSeO3_P2_1^m.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

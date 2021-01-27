@@ -7,7 +7,7 @@ Pd3P2S8 - P-3m1
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           A2B3C8
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    6.860
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000       8.025
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-Pd3P2S8_P-3m1.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   20.195
 Youngs's Modulus *Min*. (N/m)   20.194
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      8.024
 Poisson's Ratio *Max*.          0.258
 Poisson's Ratio *Min*.          0.258
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-Pd3P2S8_P-3m1.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

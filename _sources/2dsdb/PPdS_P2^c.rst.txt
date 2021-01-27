@@ -7,7 +7,7 @@ PPdS - P2/c
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           ABC
 Crystal System              Square
 Lattice Constant *a* (Å)    5.696
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      46.690
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-PPdS_P2^c.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   137.992
 Youngs's Modulus *Min*. (N/m)   117.515
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      46.690
 Poisson's Ratio *Max*.          0.258
 Poisson's Ratio *Min*.          0.129
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-PPdS_P2^c.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

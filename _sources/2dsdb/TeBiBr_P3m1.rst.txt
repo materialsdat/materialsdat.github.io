@@ -7,7 +7,7 @@ TeBiBr - P3m1
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           ABC
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    4.217
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      13.033
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-TeBiBr_P3m1.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   32.349
 Youngs's Modulus *Min*. (N/m)   32.349
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      13.033
 Poisson's Ratio *Max*.          0.241
 Poisson's Ratio *Min*.          0.241
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-TeBiBr_P3m1.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

@@ -7,7 +7,7 @@ BaCaI4 - P2/m
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           ABC4
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    4.578
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000       3.758
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-BaCaI4_P2^m.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   13.958
 Youngs's Modulus *Min*. (N/m)   9.577
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      3.758
 Poisson's Ratio *Max*.          0.324
 Poisson's Ratio *Min*.          0.173
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-BaCaI4_P2^m.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

@@ -7,7 +7,7 @@ Bi2Te2S - P-3m1
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           AB2C2
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    4.206
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      27.575
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-Bi2Te2S_P-3m1.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   68.300
 Youngs's Modulus *Min*. (N/m)   68.300
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      27.575
 Poisson's Ratio *Max*.          0.238
 Poisson's Ratio *Min*.          0.238
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-Bi2Te2S_P-3m1.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

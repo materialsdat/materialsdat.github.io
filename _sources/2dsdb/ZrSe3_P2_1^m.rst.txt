@@ -7,7 +7,7 @@ ZrSe3 - P2
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           AB3
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    5.462
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      19.810
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-ZrSe3_P2_1^m.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   112.810
 Youngs's Modulus *Min*. (N/m)   57.157
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      19.810
 Poisson's Ratio *Max*.          0.458
 Poisson's Ratio *Min*.          0.108
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-ZrSe3_P2_1^m.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

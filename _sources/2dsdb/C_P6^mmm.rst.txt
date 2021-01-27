@@ -7,7 +7,7 @@ C - P6/mmm
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           A
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    2.469
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000     144.403
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-C_P6^mmm.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   338.690
 Youngs's Modulus *Min*. (N/m)   338.689
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      144.402
 Poisson's Ratio *Max*.          0.173
 Poisson's Ratio *Min*.          0.173
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-C_P6^mmm.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

@@ -7,7 +7,7 @@ Sb4S5Cl2 - P2
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           A2B4C5
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    9.390
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      10.278
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-Sb4S5Cl2_P2_1^m.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   26.283
 Youngs's Modulus *Min*. (N/m)   10.852
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      5.370
 Poisson's Ratio *Max*.          0.611
 Poisson's Ratio *Min*.          0.079
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-Sb4S5Cl2_P2_1^m.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

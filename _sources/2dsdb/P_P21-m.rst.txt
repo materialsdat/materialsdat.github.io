@@ -7,7 +7,7 @@ P - P21-m
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           A
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    5.423
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      20.194
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-P_P21-m.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   84.680
 Youngs's Modulus *Min*. (N/m)   51.889
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      20.194
 Poisson's Ratio *Max*.          0.292
 Poisson's Ratio *Min*.          -0.025
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-P_P21-m.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

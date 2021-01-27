@@ -7,7 +7,7 @@ BiOF - P-3m1
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           ABC
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    4.002
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      33.971
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-BiOF_P-3m1.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   84.813
 Youngs's Modulus *Min*. (N/m)   84.812
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      33.971
 Poisson's Ratio *Max*.          0.248
 Poisson's Ratio *Min*.          0.248
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-BiOF_P-3m1.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

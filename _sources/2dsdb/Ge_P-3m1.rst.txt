@@ -7,7 +7,7 @@ Ge - P-3m1
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           A
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    3.997
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      17.841
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-Ge_P-3m1.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   47.080
 Youngs's Modulus *Min*. (N/m)   47.080
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      17.841
 Poisson's Ratio *Max*.          0.319
 Poisson's Ratio *Min*.          0.319
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-Ge_P-3m1.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

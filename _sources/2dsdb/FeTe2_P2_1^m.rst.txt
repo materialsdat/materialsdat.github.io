@@ -7,7 +7,7 @@ FeTe2 - P2
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           AB2
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.654
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      29.871
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-FeTe2_P2_1^m.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   78.510
 Youngs's Modulus *Min*. (N/m)   71.818
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      29.871
 Poisson's Ratio *Max*.          0.237
 Poisson's Ratio *Min*.          0.213
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-FeTe2_P2_1^m.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

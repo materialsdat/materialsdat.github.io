@@ -7,7 +7,7 @@ BiClO - P4/nmm
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           ABC
 Crystal System              Square
 Lattice Constant *a* (Å)    3.899
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      39.379
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-BiClO_P4^nmm.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   97.191
 Youngs's Modulus *Min*. (N/m)   72.937
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      25.588
 Poisson's Ratio *Max*.          0.425
 Poisson's Ratio *Min*.          0.234
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-BiClO_P4^nmm.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

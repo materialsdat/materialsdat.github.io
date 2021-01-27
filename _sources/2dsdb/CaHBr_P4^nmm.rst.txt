@@ -7,7 +7,7 @@ CaHBr - P4/nmm
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           ABC
 Crystal System              Square
 Lattice Constant *a* (Å)    3.836
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      18.041
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-CaHBr_P4^nmm.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   62.978
 Youngs's Modulus *Min*. (N/m)   47.598
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      18.041
 Poisson's Ratio *Max*.          0.319
 Poisson's Ratio *Min*.          0.099
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-CaHBr_P4^nmm.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

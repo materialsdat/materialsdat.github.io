@@ -7,7 +7,7 @@ IrBr3 - C2/m
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           AB3
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    6.395
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      12.549
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-IrBr3_C2^m.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   34.541
 Youngs's Modulus *Min*. (N/m)   34.006
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      12.549
 Poisson's Ratio *Max*.          0.356
 Poisson's Ratio *Min*.          0.347
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-IrBr3_C2^m.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

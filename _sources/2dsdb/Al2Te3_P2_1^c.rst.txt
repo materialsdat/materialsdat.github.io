@@ -7,7 +7,7 @@ Al2Te3 - P2
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           A2B3
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    7.159
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      15.276
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-Al2Te3_P2_1^c.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   42.035
 Youngs's Modulus *Min*. (N/m)   28.974
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      13.370
 Poisson's Ratio *Max*.          0.347
 Poisson's Ratio *Min*.          0.214
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-Al2Te3_P2_1^c.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

@@ -7,7 +7,7 @@ GeSe - Pmn2
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           AB
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.934
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      23.603
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-GeSe_Pmn2_1.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   53.328
 Youngs's Modulus *Min*. (N/m)   8.286
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      3.981
 Poisson's Ratio *Max*.          1.230
 Poisson's Ratio *Min*.          -0.228
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-GeSe_Pmn2_1.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

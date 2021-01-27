@@ -7,7 +7,7 @@ As2SO6 - P2
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           AB2C6
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    4.879
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      15.057
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-As2SO6_P2_12_12.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   32.858
 Youngs's Modulus *Min*. (N/m)   3.938
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      1.995
 Poisson's Ratio *Max*.          1.394
 Poisson's Ratio *Min*.          -0.392
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-As2SO6_P2_12_12.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

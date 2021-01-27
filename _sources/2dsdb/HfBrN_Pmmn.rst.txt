@@ -7,7 +7,7 @@ HfBrN - Pmmn
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           ABC
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.608
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      62.237
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-HfBrN_Pmmn.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   162.631
 Youngs's Modulus *Min*. (N/m)   124.028
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      55.169
 Poisson's Ratio *Max*.          0.318
 Poisson's Ratio *Min*.          0.215
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-HfBrN_Pmmn.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

@@ -7,7 +7,7 @@ SiO2 - P6/mmm
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           AB2
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    5.309
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      44.128
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-SiO2_P6^mmm.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   133.205
 Youngs's Modulus *Min*. (N/m)   133.204
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      44.128
 Poisson's Ratio *Max*.          0.509
 Poisson's Ratio *Min*.          0.509
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-SiO2_P6^mmm.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

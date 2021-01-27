@@ -7,7 +7,7 @@ BiBr3 - P2
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           AB3
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    7.247
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000       2.997
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-BiBr3_P2_1^c.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   8.703
 Youngs's Modulus *Min*. (N/m)   8.407
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      2.891
 Poisson's Ratio *Max*.          0.469
 Poisson's Ratio *Min*.          0.451
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-BiBr3_P2_1^c.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

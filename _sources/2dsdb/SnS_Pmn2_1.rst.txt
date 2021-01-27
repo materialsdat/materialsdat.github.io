@@ -7,7 +7,7 @@ SnS - Pmn2
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           AB
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    4.025
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      18.390
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-SnS_Pmn2_1.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   43.179
 Youngs's Modulus *Min*. (N/m)   6.040
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      2.763
 Poisson's Ratio *Max*.          1.300
 Poisson's Ratio *Min*.          -0.189
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-SnS_Pmn2_1.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

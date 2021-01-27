@@ -7,7 +7,7 @@ AuClO2 - P222
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           ABC2
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    7.330
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000       4.592
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-AuClO2_P222_1.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   54.240
 Youngs's Modulus *Min*. (N/m)   6.853
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      4.592
 Poisson's Ratio *Max*.          0.530
 Poisson's Ratio *Min*.          0.067
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-AuClO2_P222_1.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------

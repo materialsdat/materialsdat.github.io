@@ -7,7 +7,7 @@ CaPbI4 - P2/m
 --------------------------
  
 =========================== ==========
-Date Page Updated           2020-11-02
+Date Page Updated           2021-01-27
 Crystal Prototype           ABC4
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    7.825
@@ -29,6 +29,16 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000       5.152
 ==================  =========  ========  =======
  
+ 
+2.2 Orientation-Dependent Mechanical Properties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+.. image:: ./images/ELASTIC-CaPbI4_P2^m.png
+  :width: 600 
+ 
+2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
 ==============================  =============
 Youngs's Modulus *Max*. (N/m)   14.598
 Youngs's Modulus *Min*. (N/m)   13.406
@@ -37,13 +47,6 @@ Shear Modulus *Min*. (N/m)      5.152
 Poisson's Ratio *Max*.          0.303
 Poisson's Ratio *Min*.          0.252
 ==============================  =============
- 
- 
-2.2 Orientation-Dependent Mechanical Properties
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ./images/ELASTIC-CaPbI4_P2^m.png
-  :width: 600 
  
 3. Fundmental Electronic Properties
 -----------------------------------
