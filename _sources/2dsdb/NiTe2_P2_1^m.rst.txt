@@ -29,24 +29,41 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      23.127
 ==================  =========  ========  =======
  
+2.2 Compliance Tensors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-2.2 Orientation-Dependent Mechanical Properties
+==================  =========== ==========  ===========
+S\ :sub:`ij` (m/N)    *xx*       *yy*        *zz*
+*xx*                  0.028299   -0.003562    0.000000
+*yy*                  -0.003562   0.031879    0.000000
+*zz*                  0.000000   0.000000    0.043240
+==================  =========== ==========  ===========
+ 
+2.3 Orientation-Dependent Mechanical Properties
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/ELASTIC-NiTe2_P2_1^m.png
   :width: 600 
+  :align: center
  
-2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2.4 Anisotropic Mechanical Properties Of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-==============================  =============
-Youngs's Modulus *Max*. (N/m)   41.771
-Youngs's Modulus *Min*. (N/m)   31.368
-Shear Modulus *Max*. (N/m)      23.127
-Shear Modulus *Min*. (N/m)      14.858
-Poisson's Ratio *Max*.          0.126
-Poisson's Ratio *Min*.          -0.102
-==============================  =============
+=======================  ============  ===========  =============
+Mechanical Properties    *Min*         *Max*        *Anisotropy*
+Young's Modulus (N/m)    31.368          41.770        1.332
+Shear Modulus (N/m)      14.858          23.127        1.557
+Poisson's Ratio          -0.102          0.126           -1.235
+=======================  ============  ===========  =============
+ 
+2.5 Anisotropic Mechanical Properties Of 2D Polycrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+=======================  ============  ===========  =============
+Mechanical Properties    *Min*         *Max*        *Anisotropy*
+Young's Modulus (N/m)    18.917          18.849        1.332
+Shear Modulus (N/m)      19.019          18.093        1.557
+=======================  ============  ===========  =============
  
 3. Fundmental Electronic Properties
 -----------------------------------
@@ -66,12 +83,14 @@ Location of Conduction Band Minimum                [0.285714, 0.285714]
  
 .. image:: ./images/3D_band-NiTe2_P2_1^m.jpg
   :width: 600 
+  :align: center
  
 3.2 Band Structure and Density of States (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/BAND_LDOS-NiTe2_P2_1^m.png
   :width: 600 
+  :align: center
  
 3.3 Projected Band Structure and Density of States (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -79,10 +98,12 @@ Location of Conduction Band Minimum                [0.285714, 0.285714]
  
 .. image:: ./images/BAND_PDOS_Ni-NiTe2_P2_1^m.png
   :width: 600 
+  :align: center
  
  
 .. image:: ./images/BAND_PDOS_Te-NiTe2_P2_1^m.png
   :width: 600 
+  :align: center
  
 3.4 Orientation-Dependent effective Masses (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -93,12 +114,14 @@ Location of Conduction Band Minimum                [0.285714, 0.285714]
  
 .. image:: ./images/Optical-NiTe2_P2_1^m.png
   :width: 600 
+  :align: center
  
 5. Phonon Spectrum and Density of States (PBE)
 ----------------------------------------------
  
 .. image:: ./images/phonon_BAND_LDOS-NiTe2_P2_1^m.png
   :width: 600 
+  :align: center
  
 References
 ----------------

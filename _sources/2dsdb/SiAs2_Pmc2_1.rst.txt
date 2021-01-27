@@ -29,24 +29,41 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000       0.365
 ==================  =========  ========  =======
  
+2.2 Compliance Tensors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-2.2 Orientation-Dependent Mechanical Properties
+==================  =========== ==========  ===========
+S\ :sub:`ij` (m/N)    *xx*       *yy*        *zz*
+*xx*                  0.009138   0.000725    0.000000
+*yy*                  0.000725   0.967175    0.000000
+*zz*                  0.000000   0.000000    2.739726
+==================  =========== ==========  ===========
+ 
+2.3 Orientation-Dependent Mechanical Properties
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/ELASTIC-SiAs2_Pmc2_1.png
   :width: 600 
+  :align: center
  
-2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2.4 Anisotropic Mechanical Properties Of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-==============================  =============
-Youngs's Modulus *Max*. (N/m)   109.437
-Youngs's Modulus *Min*. (N/m)   0.944
-Shear Modulus *Max*. (N/m)      1.026
-Shear Modulus *Min*. (N/m)      0.365
-Poisson's Ratio *Max*.          0.600
-Poisson's Ratio *Min*.          -0.079
-==============================  =============
+=======================  ============  ===========  =============
+Mechanical Properties    *Min*         *Max*        *Anisotropy*
+Young's Modulus (N/m)    0.944          109.437        115.937
+Shear Modulus (N/m)      0.365          1.026        2.810
+Poisson's Ratio          -0.079          0.600           -7.560
+=======================  ============  ===========  =============
+ 
+2.5 Anisotropic Mechanical Properties Of 2D Polycrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+=======================  ============  ===========  =============
+Mechanical Properties    *Min*         *Max*        *Anisotropy*
+Young's Modulus (N/m)    27.579          1.023        115.937
+Shear Modulus (N/m)      14.013          0.538        2.810
+=======================  ============  ===========  =============
  
 3. Fundmental Electronic Properties
 -----------------------------------
@@ -74,6 +91,7 @@ Location of Conduction Band Minimum                [0.000000, 0.000000]
  
 .. image:: ./images/BAND_LDOS-SiAs2_Pmc2_1.png
   :width: 600 
+  :align: center
  
 3.3 Projected Band Structure and Density of States (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -81,28 +99,33 @@ Location of Conduction Band Minimum                [0.000000, 0.000000]
  
 .. image:: ./images/BAND_PDOS_As-SiAs2_Pmc2_1.png
   :width: 600 
+  :align: center
  
  
 .. image:: ./images/BAND_PDOS_Si-SiAs2_Pmc2_1.png
   :width: 600 
+  :align: center
  
 3.4 Orientation-Dependent effective Masses (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/EMC-SiAs2_Pmc2_1.png
   :width: 600 
+  :align: center
  
 4. Optical Spectrums (HSE)
 ---------------------------------
  
 .. image:: ./images/Optical-SiAs2_Pmc2_1.png
   :width: 600 
+  :align: center
  
 5. Phonon Spectrum and Density of States (PBE)
 ----------------------------------------------
  
 .. image:: ./images/phonon_BAND_LDOS-SiAs2_Pmc2_1.png
   :width: 600 
+  :align: center
  
 References
 ----------------

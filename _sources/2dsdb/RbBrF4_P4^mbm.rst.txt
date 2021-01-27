@@ -29,24 +29,41 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000       2.228
 ==================  =========  ========  =======
  
+2.2 Compliance Tensors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-2.2 Orientation-Dependent Mechanical Properties
+==================  =========== ==========  ===========
+S\ :sub:`ij` (m/N)    *xx*       *yy*        *zz*
+*xx*                  0.048617   -0.012710    0.000000
+*yy*                  -0.012710   0.048617    0.000000
+*zz*                  0.000000   0.000000    0.448833
+==================  =========== ==========  ===========
+ 
+2.3 Orientation-Dependent Mechanical Properties
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/ELASTIC-RbBrF4_P4^mbm.png
   :width: 600 
+  :align: center
  
-2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2.4 Anisotropic Mechanical Properties Of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-==============================  =============
-Youngs's Modulus *Max*. (N/m)   20.569
-Youngs's Modulus *Min*. (N/m)   7.683
-Shear Modulus *Max*. (N/m)      8.153
-Shear Modulus *Min*. (N/m)      2.228
-Poisson's Ratio *Max*.          0.724
-Poisson's Ratio *Min*.          0.261
-==============================  =============
+=======================  ============  ===========  =============
+Mechanical Properties    *Min*         *Max*        *Anisotropy*
+Young's Modulus (N/m)    7.683          20.569        2.677
+Shear Modulus (N/m)      2.228          8.153        3.659
+Poisson's Ratio          0.261          0.724           2.770
+=======================  ============  ===========  =============
+ 
+2.5 Anisotropic Mechanical Properties Of 2D Polycrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+=======================  ============  ===========  =============
+Mechanical Properties    *Min*         *Max*        *Anisotropy*
+Young's Modulus (N/m)    13.925          13.925        2.677
+Shear Modulus (N/m)      5.190          3.500        3.659
+=======================  ============  ===========  =============
  
 3. Fundmental Electronic Properties
 -----------------------------------
@@ -70,12 +87,14 @@ Location of Conduction Band Minimum                [0.000000, 0.000000]
  
 .. image:: ./images/3D_band-RbBrF4_P4^mbm.jpg
   :width: 600 
+  :align: center
  
 3.2 Band Structure and Density of States (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/BAND_LDOS-RbBrF4_P4^mbm.png
   :width: 600 
+  :align: center
  
 3.3 Projected Band Structure and Density of States (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -83,32 +102,38 @@ Location of Conduction Band Minimum                [0.000000, 0.000000]
  
 .. image:: ./images/BAND_PDOS_Br-RbBrF4_P4^mbm.png
   :width: 600 
+  :align: center
  
  
 .. image:: ./images/BAND_PDOS_F-RbBrF4_P4^mbm.png
   :width: 600 
+  :align: center
  
  
 .. image:: ./images/BAND_PDOS_Rb-RbBrF4_P4^mbm.png
   :width: 600 
+  :align: center
  
 3.4 Orientation-Dependent effective Masses (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/EMC-RbBrF4_P4^mbm.png
   :width: 600 
+  :align: center
  
 4. Optical Spectrums (HSE)
 ---------------------------------
  
 .. image:: ./images/Optical-RbBrF4_P4^mbm.png
   :width: 600 
+  :align: center
  
 5. Phonon Spectrum and Density of States (PBE)
 ----------------------------------------------
  
 .. image:: ./images/phonon_BAND_LDOS-RbBrF4_P4^mbm.png
   :width: 600 
+  :align: center
  
 References
 ----------------

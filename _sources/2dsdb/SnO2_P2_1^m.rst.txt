@@ -29,24 +29,41 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      45.303
 ==================  =========  ========  =======
  
+2.2 Compliance Tensors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-2.2 Orientation-Dependent Mechanical Properties
+==================  =========== ==========  ===========
+S\ :sub:`ij` (m/N)    *xx*       *yy*        *zz*
+*xx*                  0.010863   -0.005708    0.000000
+*yy*                  -0.005708   0.010882    0.000000
+*zz*                  0.000000   0.000000    0.022074
+==================  =========== ==========  ===========
+ 
+2.3 Orientation-Dependent Mechanical Properties
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/ELASTIC-SnO2_P2_1^m.png
   :width: 600 
+  :align: center
  
-2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2.4 Anisotropic Mechanical Properties Of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-==============================  =============
-Youngs's Modulus *Max*. (N/m)   123.448
-Youngs's Modulus *Min*. (N/m)   91.894
-Shear Modulus *Max*. (N/m)      45.303
-Shear Modulus *Min*. (N/m)      30.155
-Poisson's Ratio *Max*.          0.525
-Poisson's Ratio *Min*.          0.362
-==============================  =============
+=======================  ============  ===========  =============
+Mechanical Properties    *Min*         *Max*        *Anisotropy*
+Young's Modulus (N/m)    91.894          123.448        1.343
+Shear Modulus (N/m)      30.155          45.303        1.502
+Poisson's Ratio          0.362          0.525           1.450
+=======================  ============  ===========  =============
+ 
+2.5 Anisotropic Mechanical Properties Of 2D Polycrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+=======================  ============  ===========  =============
+Mechanical Properties    *Min*         *Max*        *Anisotropy*
+Young's Modulus (N/m)    96.816          96.816        1.343
+Shear Modulus (N/m)      37.729          36.209        1.502
+=======================  ============  ===========  =============
  
 3. Fundmental Electronic Properties
 -----------------------------------
@@ -70,12 +87,14 @@ Location of Conduction Band Minimum                [0.000000, 0.000000]
  
 .. image:: ./images/3D_band-SnO2_P2_1^m.jpg
   :width: 600 
+  :align: center
  
 3.2 Band Structure and Density of States (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/BAND_LDOS-SnO2_P2_1^m.png
   :width: 600 
+  :align: center
  
 3.3 Projected Band Structure and Density of States (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -83,28 +102,33 @@ Location of Conduction Band Minimum                [0.000000, 0.000000]
  
 .. image:: ./images/BAND_PDOS_Sn-SnO2_P2_1^m.png
   :width: 600 
+  :align: center
  
  
 .. image:: ./images/BAND_PDOS_O-SnO2_P2_1^m.png
   :width: 600 
+  :align: center
  
 3.4 Orientation-Dependent effective Masses (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/EMC-SnO2_P2_1^m.png
   :width: 600 
+  :align: center
  
 4. Optical Spectrums (HSE)
 ---------------------------------
  
 .. image:: ./images/Optical-SnO2_P2_1^m.png
   :width: 600 
+  :align: center
  
 5. Phonon Spectrum and Density of States (PBE)
 ----------------------------------------------
  
 .. image:: ./images/phonon_BAND_LDOS-SnO2_P2_1^m.png
   :width: 600 
+  :align: center
  
 References
 ----------------

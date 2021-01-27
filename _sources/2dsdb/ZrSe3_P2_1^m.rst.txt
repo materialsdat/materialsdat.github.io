@@ -29,24 +29,41 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000      19.810
 ==================  =========  ========  =======
  
+2.2 Compliance Tensors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-2.2 Orientation-Dependent Mechanical Properties
+==================  =========== ==========  ===========
+S\ :sub:`ij` (m/N)    *xx*       *yy*        *zz*
+*xx*                  0.012801   -0.001378    0.000000
+*yy*                  -0.001378   0.008864    0.000000
+*zz*                  0.000000   0.000000    0.050480
+==================  =========== ==========  ===========
+ 
+2.3 Orientation-Dependent Mechanical Properties
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/ELASTIC-ZrSe3_P2_1^m.png
   :width: 600 
+  :align: center
  
-2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2.4 Anisotropic Mechanical Properties Of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-==============================  =============
-Youngs's Modulus *Max*. (N/m)   112.810
-Youngs's Modulus *Min*. (N/m)   57.157
-Shear Modulus *Max*. (N/m)      40.947
-Shear Modulus *Min*. (N/m)      19.810
-Poisson's Ratio *Max*.          0.458
-Poisson's Ratio *Min*.          0.108
-==============================  =============
+=======================  ============  ===========  =============
+Mechanical Properties    *Min*         *Max*        *Anisotropy*
+Young's Modulus (N/m)    57.157          112.810        1.974
+Shear Modulus (N/m)      19.810          40.947        2.067
+Poisson's Ratio          0.108          0.458           4.257
+=======================  ============  ===========  =============
+ 
+2.5 Anisotropic Mechanical Properties Of 2D Polycrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+=======================  ============  ===========  =============
+Mechanical Properties    *Min*         *Max*        *Anisotropy*
+Young's Modulus (N/m)    54.721          52.885        1.974
+Shear Modulus (N/m)      31.090          26.702        2.067
+=======================  ============  ===========  =============
  
 3. Fundmental Electronic Properties
 -----------------------------------
@@ -70,12 +87,14 @@ Location of Conduction Band Minimum                [0.000000, 0.000000]
  
 .. image:: ./images/3D_band-ZrSe3_P2_1^m.jpg
   :width: 600 
+  :align: center
  
 3.2 Band Structure and Density of States (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/BAND_LDOS-ZrSe3_P2_1^m.png
   :width: 600 
+  :align: center
  
 3.3 Projected Band Structure and Density of States (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -83,28 +102,33 @@ Location of Conduction Band Minimum                [0.000000, 0.000000]
  
 .. image:: ./images/BAND_PDOS_Zr-ZrSe3_P2_1^m.png
   :width: 600 
+  :align: center
  
  
 .. image:: ./images/BAND_PDOS_Se-ZrSe3_P2_1^m.png
   :width: 600 
+  :align: center
  
 3.4 Orientation-Dependent effective Masses (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/EMC-ZrSe3_P2_1^m.png
   :width: 600 
+  :align: center
  
 4. Optical Spectrums (HSE)
 ---------------------------------
  
 .. image:: ./images/Optical-ZrSe3_P2_1^m.png
   :width: 600 
+  :align: center
  
 5. Phonon Spectrum and Density of States (PBE)
 ----------------------------------------------
  
 .. image:: ./images/phonon_BAND_LDOS-ZrSe3_P2_1^m.png
   :width: 600 
+  :align: center
  
 References
 ----------------

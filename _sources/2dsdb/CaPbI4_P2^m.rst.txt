@@ -29,24 +29,41 @@ C\ :sub:`ij` (N/m)  *xx*       *yy*       *zz*
 *zz*                   0.000      0.000       5.152
 ==================  =========  ========  =======
  
+2.2 Compliance Tensors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-2.2 Orientation-Dependent Mechanical Properties
+==================  =========== ==========  ===========
+S\ :sub:`ij` (m/N)    *xx*       *yy*        *zz*
+*xx*                  0.071326   -0.017994    0.000000
+*yy*                  -0.017994   0.068502    0.000000
+*zz*                  0.000000   0.000000    0.194099
+==================  =========== ==========  ===========
+ 
+2.3 Orientation-Dependent Mechanical Properties
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/ELASTIC-CaPbI4_P2^m.png
   :width: 600 
+  :align: center
  
-2.3 Anisotropic Mechanical Properties of 2D Singlecrystal
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2.4 Anisotropic Mechanical Properties Of 2D Singlecrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-==============================  =============
-Youngs's Modulus *Max*. (N/m)   14.598
-Youngs's Modulus *Min*. (N/m)   13.406
-Shear Modulus *Max*. (N/m)      5.688
-Shear Modulus *Min*. (N/m)      5.152
-Poisson's Ratio *Max*.          0.303
-Poisson's Ratio *Min*.          0.252
-==============================  =============
+=======================  ============  ===========  =============
+Mechanical Properties    *Min*         *Max*        *Anisotropy*
+Young's Modulus (N/m)    13.406          14.598        1.089
+Shear Modulus (N/m)      5.152          5.688        1.104
+Poisson's Ratio          0.252          0.303           1.202
+=======================  ============  ===========  =============
+ 
+2.5 Anisotropic Mechanical Properties Of 2D Polycrystal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+=======================  ============  ===========  =============
+Mechanical Properties    *Min*         *Max*        *Anisotropy*
+Young's Modulus (N/m)    9.634          9.630        1.089
+Shear Modulus (N/m)      5.421          5.407        1.104
+=======================  ============  ===========  =============
  
 3. Fundmental Electronic Properties
 -----------------------------------
@@ -70,12 +87,14 @@ Location of Conduction Band Minimum                [0.000000, 0.000000]
  
 .. image:: ./images/3D_band-CaPbI4_P2^m.jpg
   :width: 600 
+  :align: center
  
 3.2 Band Structure and Density of States (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/BAND_LDOS-CaPbI4_P2^m.png
   :width: 600 
+  :align: center
  
 3.3 Projected Band Structure and Density of States (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -83,32 +102,38 @@ Location of Conduction Band Minimum                [0.000000, 0.000000]
  
 .. image:: ./images/BAND_PDOS_Ca-CaPbI4_P2^m.png
   :width: 600 
+  :align: center
  
  
 .. image:: ./images/BAND_PDOS_Pb-CaPbI4_P2^m.png
   :width: 600 
+  :align: center
  
  
 .. image:: ./images/BAND_PDOS_I-CaPbI4_P2^m.png
   :width: 600 
+  :align: center
  
 3.4 Orientation-Dependent effective Masses (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 .. image:: ./images/EMC-CaPbI4_P2^m.png
   :width: 600 
+  :align: center
  
 4. Optical Spectrums (HSE)
 ---------------------------------
  
 .. image:: ./images/Optical-CaPbI4_P2^m.png
   :width: 600 
+  :align: center
  
 5. Phonon Spectrum and Density of States (PBE)
 ----------------------------------------------
  
 .. image:: ./images/phonon_BAND_LDOS-CaPbI4_P2^m.png
   :width: 600 
+  :align: center
  
 References
 ----------------
