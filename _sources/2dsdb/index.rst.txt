@@ -7,7 +7,7 @@ The database contains structural, elastic, electronic, thermodynamic, and optica
    :width: 300 
    :align: center
 
-.. important::
+.. container:: article
    If you are using data from this database in your research, please cite the following paper:
 
    [1] V. Wang, Y.-Y. Liang, Y. Kawazeo, W.-T. Geng, High-Throughput Computational Screening of Two-Dimensional Semiconductors, `arXiv:1806.04285. <https://arxiv.org/abs/1806.04285>`_
