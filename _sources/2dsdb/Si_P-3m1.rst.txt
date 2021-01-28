@@ -121,9 +121,10 @@ Location of Conduction Band Minimum                [0.333333, 0.333333]
 References
 ----------------
  
-For more details of this database, please refer to the following reference.
+.. note::
+   For more details of this database, please refer to the following reference.
  
-[1] V. Wang, Y.-Y. Liang, Y. Kawazeo, W.-T. Geng, High-Throughput Computational Screening of Two-Dimensional Semiconductors, `arXiv:1806.04285. <https://arxiv.org/abs/1806.04285>`_
+   [1] V. Wang, Y.-Y. Liang, Y. Kawazeo, W.-T. Geng, High-Throughput Computational Screening of Two-Dimensional Semiconductors, `arXiv:1806.04285. <https://arxiv.org/abs/1806.04285>`_
  
 License
 ----------------
