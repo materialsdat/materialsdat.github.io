@@ -4,10 +4,11 @@
 The database contains structural, elastic, electronic, thermodynamic, and optical properties of around 270 two-dimensional semiconductors. The workflow for the calculation of the different properties is provided below.
 
 .. image:: ./images/workflow.png
-   :width: 300 
+   :width: 400 
    :align: center
 
-.. container:: article
+.. code:: none
+
    If you are using data from this database in your research, please cite the following paper:
 
    [1] V. Wang, Y.-Y. Liang, Y. Kawazeo, W.-T. Geng, High-Throughput Computational Screening of Two-Dimensional Semiconductors, `arXiv:1806.04285. <https://arxiv.org/abs/1806.04285>`_
