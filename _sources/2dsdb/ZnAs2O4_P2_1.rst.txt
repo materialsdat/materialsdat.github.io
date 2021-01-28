@@ -7,7 +7,7 @@ ZnAs2O4 - P2
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB2C4
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    4.606
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      23.598          21.525        1.829
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 3.5886
 Band Gap (HSE, eV)                                 4.8807
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        24.796
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        2.117
 Location of Valence Band Maximum                   [0.000000, 0.000000]
 Location of Conduction Band Minimum                [0.370370, 0.370370]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

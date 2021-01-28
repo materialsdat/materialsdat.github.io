@@ -7,7 +7,7 @@ SiH - P-3m1
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    3.857
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      22.214          22.214        1.000
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 2.1902
 Band Gap (HSE, eV)                                 2.9436
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        31.138
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        -2.649
 Location of Valence Band Maximum                   [0.000000, 0.000000]
 Location of Conduction Band Minimum                [0.500000, 0.500000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

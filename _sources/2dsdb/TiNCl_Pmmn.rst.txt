@@ -7,7 +7,7 @@ TiNCl - Pmmn
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           ABC
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.275
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      62.000          61.576        1.166
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Direct
 Band Gap (PBE, eV)                                 0.5812
 Band Gap (HSE, eV)                                 1.5837
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        0.287
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        0.208
 Location of Valence Band Maximum                   [0.000000, 0.000000]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

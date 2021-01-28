@@ -7,7 +7,7 @@ SiP2 - Pmc2
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB2
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.456
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      31.350          19.835        2.168
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Direct
 Band Gap (PBE, eV)                                 1.5171
 Band Gap (HSE, eV)                                 2.2949
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        1.884
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        0.786
 Location of Valence Band Maximum                   [0.000000, 0.000000]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

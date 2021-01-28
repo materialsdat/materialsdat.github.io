@@ -7,7 +7,7 @@ AlClO - Pmmn
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           ABC
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.171
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      61.516          59.359        1.458
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 5.8318
 Band Gap (HSE, eV)                                 7.2997
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        2.064
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        0.353
 Location of Valence Band Maximum                   [0.475000, 0.475000]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

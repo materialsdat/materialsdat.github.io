@@ -7,7 +7,7 @@ NiO2 - P2
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB2
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    2.830
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      53.575          53.575        1.000
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 1.1794
 Band Gap (HSE, eV)                                 2.8494
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        7.747
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        -0.040
 Location of Valence Band Maximum                   [0.111111, 0.111111]
 Location of Conduction Band Minimum                [0.277778, 0.277778]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

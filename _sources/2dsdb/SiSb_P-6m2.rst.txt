@@ -7,7 +7,7 @@ SiSb - P-6m2
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    3.971
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      36.174          36.174        1.000
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 1.1630
 Band Gap (HSE, eV)                                 1.6422
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        3.379
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        0.391
 Location of Valence Band Maximum                   [0.000000, 0.000000]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

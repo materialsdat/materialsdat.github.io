@@ -7,7 +7,7 @@ Al2Mg2Se5 - P-3m1
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           A2B2C5
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    3.864
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      49.120          49.120        1.000
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Direct
 Band Gap (PBE, eV)                                 1.4063
 Band Gap (HSE, eV)                                 2.2289
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        6.210
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        2.648
 Location of Valence Band Maximum                   [0.000000, 0.000000]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

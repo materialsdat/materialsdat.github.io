@@ -7,7 +7,7 @@ CrS2 - P-6m2
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB2
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    3.044
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      44.549          44.549        1.000
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Direct
 Band Gap (PBE, eV)                                 0.9367
 Band Gap (HSE, eV)                                 1.3230
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        1.046
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        0.874
 Location of Valence Band Maximum                   [0.333333, 0.333333]
 Location of Conduction Band Minimum                [0.333333, 0.333333]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

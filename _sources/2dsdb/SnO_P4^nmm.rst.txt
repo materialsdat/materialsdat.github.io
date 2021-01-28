@@ -7,7 +7,7 @@ SnO - P4/nmm
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB
 Crystal System              Square
 Lattice Constant *a* (Å)    3.818
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      21.775          8.215        8.485
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 3.0241
 Band Gap (HSE, eV)                                 3.9502
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        18.770
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        1.556
 Location of Valence Band Maximum                   [0.176471, 0.176471]
 Location of Conduction Band Minimum                [0.382353, 0.382353]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

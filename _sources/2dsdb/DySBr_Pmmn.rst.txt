@@ -7,7 +7,7 @@ DySBr - Pmmn
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           ABC
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    4.069
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      22.402          21.012        1.578
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Direct
 Band Gap (PBE, eV)                                 2.5521
 Band Gap (HSE, eV)                                 3.9412
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        2.230
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        1.387
 Location of Valence Band Maximum                   [0.000000, 0.000000]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

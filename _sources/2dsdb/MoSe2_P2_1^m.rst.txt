@@ -7,7 +7,7 @@ MoSe2 - P2
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB2
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.291
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      39.725          39.555        1.087
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 0.0105
 Band Gap (HSE, eV)                                 0.0833
@@ -76,7 +76,7 @@ Ionization Energy (HSE, eV)                        -5.445
 Electron Affinity (HSE, eV)                        -5.361
 Location of Valence Band Maximum                   [0.066667, 0.066667]
 Location of Conduction Band Minimum                [0.100000, 0.100000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

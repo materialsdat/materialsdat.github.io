@@ -7,7 +7,7 @@ NiTe2 - P2
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB2
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.749
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      19.019          18.093        1.557
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 -0.8531
 Band Gap (HSE, eV)                                 0.0713
@@ -76,7 +76,7 @@ Ionization Energy (HSE, eV)
 Electron Affinity (HSE, eV)                        
 Location of Valence Band Maximum                   [0.000000, 0.000000]
 Location of Conduction Band Minimum                [0.285714, 0.285714]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

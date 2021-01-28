@@ -7,7 +7,7 @@ MoO3 - P2
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB3
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.685
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      47.977          47.210        1.133
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 1.7982
 Band Gap (HSE, eV)                                 3.2667
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        4.271
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        1.046
 Location of Valence Band Maximum                   [0.428571, 0.428571]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

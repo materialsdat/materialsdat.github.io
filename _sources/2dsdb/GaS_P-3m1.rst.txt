@@ -7,7 +7,7 @@ GaS - P-3m1
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    3.581
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      36.540          36.540        1.000
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 2.6108
 Band Gap (HSE, eV)                                 3.3166
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        1.254
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        1.247
 Location of Valence Band Maximum                   [-0.100000, -0.100000]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -7,7 +7,7 @@ SmBr3 - Pmmn
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB3
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    3.902
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      12.155          12.049        1.038
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Direct
 Band Gap (PBE, eV)                                 2.8512
 Band Gap (HSE, eV)                                 3.9835
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        45.130
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        -0.629
 Location of Valence Band Maximum                   [0.083333, 0.083333]
 Location of Conduction Band Minimum                [0.083333, 0.083333]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

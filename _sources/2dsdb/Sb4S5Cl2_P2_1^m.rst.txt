@@ -7,7 +7,7 @@ Sb4S5Cl2 - P2
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           A2B4C5
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    9.390
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      8.339          7.054        1.914
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 2.1687
 Band Gap (HSE, eV)                                 3.0099
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        6.879
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        3.085
 Location of Valence Band Maximum                   [0.333333, 0.333333]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

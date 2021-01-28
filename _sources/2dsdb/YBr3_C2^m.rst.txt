@@ -7,7 +7,7 @@ YBr3 - C2/m
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB3
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    7.043
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      4.592          4.592        1.009
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 3.9662
 Band Gap (HSE, eV)                                 5.3146
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        2.828
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        2.399
 Location of Valence Band Maximum                   [0.125000, 0.125000]
 Location of Conduction Band Minimum                [0.375000, 0.375000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -7,7 +7,7 @@ TlF - Pbcm
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    5.279
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      4.068          2.160        4.341
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 3.8635
 Band Gap (HSE, eV)                                 4.8709
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        6.676
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        0.628
 Location of Valence Band Maximum                   [0.400000, 0.400000]
 Location of Conduction Band Minimum                [0.458333, 0.458333]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

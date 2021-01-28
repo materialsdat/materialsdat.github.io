@@ -7,7 +7,7 @@ Nb3SBr7 - P3m1
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB3C7
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    7.146
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      23.075          23.075        1.000
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Direct
 Band Gap (PBE, eV)                                 0.8203
 Band Gap (HSE, eV)                                 1.6609
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        5.237
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        3.089
 Location of Valence Band Maximum                   [0.500000, 0.500000]
 Location of Conduction Band Minimum                [0.500000, 0.500000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

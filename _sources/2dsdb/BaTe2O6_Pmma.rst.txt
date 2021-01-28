@@ -7,7 +7,7 @@ BaTe2O6 - Pmma
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB2C6
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    5.827
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      38.148          37.801        1.148
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 1.8959
 Band Gap (HSE, eV)                                 3.0260
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        112.933
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        -17.499
 Location of Valence Band Maximum                   [0.500000, 0.500000]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

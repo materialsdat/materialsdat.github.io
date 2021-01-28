@@ -7,7 +7,7 @@ CuSe2Cl - P2
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           ABC2
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    7.624
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      7.568          7.127        1.634
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 0.7754
 Band Gap (HSE, eV)                                 1.7666
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        52.600
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        0.165
 Location of Valence Band Maximum                   [0.500000, 0.500000]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

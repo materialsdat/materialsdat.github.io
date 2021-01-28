@@ -7,7 +7,7 @@ AuSe - P2/m
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB
 Crystal System              Rectangular
 Lattice Constant *a* (Å)    6.284
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      6.485          4.262        1.909
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 1.2076
 Band Gap (HSE, eV)                                 1.7937
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        5.377
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        0.313
 Location of Valence Band Maximum                   [0.500000, 0.500000]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

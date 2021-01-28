@@ -7,7 +7,7 @@ LaIO - P4/nmm
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           ABC
 Crystal System              Square
 Lattice Constant *a* (Å)    4.162
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      34.835          34.834        1.008
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 3.2016
 Band Gap (HSE, eV)                                 4.8549
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        162.511
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        -16.844
 Location of Valence Band Maximum                   [0.166667, 0.166667]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

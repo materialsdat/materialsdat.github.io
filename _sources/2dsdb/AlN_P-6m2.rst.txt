@@ -7,7 +7,7 @@ AlN - P-6m2
 --------------------------
  
 =========================== ===============
-Last Updated                2021-01-27
+Last Updated                2021-01-28
 Crystal Prototype           AB
 Crystal System              Hexagonal
 Lattice Constant *a* (Å)    3.128
@@ -68,7 +68,7 @@ Shear Modulus (N/m)      38.581          38.581        1.000
 3. Fundmental Electronic Properties
 -----------------------------------
  
-=================================================  ========================================
+=================================================  ==================================
 Band Character                                     Indirect
 Band Gap (PBE, eV)                                 2.8949
 Band Gap (HSE, eV)                                 4.0266
@@ -80,7 +80,7 @@ Effective Mass of Hole *Max*. (*m*\ :sub:`0`)        2.421
 Effective Mass of Hole *Min*. (*m*\ :sub:`0`)        2.169
 Location of Valence Band Maximum                   [0.333333, 0.333333]
 Location of Conduction Band Minimum                [0.000000, 0.000000]
-=================================================  ========================================
+=================================================  ==================================
  
 3.1 Global Band Structure (PBE)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
