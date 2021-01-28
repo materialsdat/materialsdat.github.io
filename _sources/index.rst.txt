@@ -11,8 +11,7 @@ Recently we perfomed high-throughput first-principles calculations to screen aro
 
 The data can be browsed online: `Browse data <./2dsdb/index.html>`_
 
-.. code:: none
-
+.. note::
    For more details of this database, please refer to the following reference.
 
    [1] V. Wang, Y.-Y. Liang, Y. Kawazeo, W.-T. Geng, High-Throughput Computational Screening of Two-Dimensional Semiconductors, `arXiv:1806.04285. <https://arxiv.org/abs/1806.04285>`_
